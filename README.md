@@ -10,7 +10,7 @@ Each certification is supported by key topics and, where applicable, linked proj
 - **Issuer:** Software University  
 - **Date:** July 2025  
 - **Key topics:** basic programming concepts, conditional statements (if/else), loops (for, while), nested loops, problem-solving fundamentals  
-- [View Certificate](./programming-fundamentals-with-JavaScript.pdf)
+- [View Certificate](./certificates/software-engineering/programming-fundamentals-with-JavaScript.pdf)
 
 ---
 
@@ -19,7 +19,7 @@ Each certification is supported by key topics and, where applicable, linked proj
 - **Issuer:** Software University  
 - **Date:** September 2025  
 - **Key topics:** programming fundamentals (syntax, variables, data types), control flow (conditionals, loops), functions, arrays (basic & advanced), objects and classes, associative arrays, text processing, regular expressions, bitwise operations, problem-solving, basic database concepts, Git & GitHub, HTTP basics, HTML & CSS fundamentals, software development concepts, QA introduction  
-- [View Certificate](./programming-fundamentals-javascript-softuni-2025.pdf)
+- [View Certificate](./certificates/software-engineering/programming-fundamentals-javascript-softuni-2025.pdf)
 
 ---
 
@@ -29,7 +29,7 @@ Each certification is supported by key topics and, where applicable, linked proj
 - **Date:** September 2025  
 - **Key topics:** database fundamentals (data types, table design), CRUD operations, SQL querying (SELECT, functions, aggregation), relational databases (joins, subqueries, relationships), transactions and database programmability  
 - **Focus:** designing and querying relational databases using PostgreSQL  
-- [View Certificate](./postgresql-2025.pdf)
+- [View Certificate](./certificates/software-engineering/postgresql-2025.pdf)
 
 
 ## ♾️ DevOps Upskill Program
@@ -45,7 +45,7 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 - **Date:** March 2025    
 - **Key topics:** Linux fundamentals, users and permissions, file systems, networking, process management, system monitoring, Bash scripting and automation  
 - **Focus:** Linux system operation and automation
-- [View Certificate](./linux-system-administration.pdf)
+- [View Certificate](./certificates/devops/linux-system-administration.pdf)
 
 ---
 
@@ -58,7 +58,7 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 - **Date:** June 2025  
 - **Key topics:** Docker, containerization, container orchestration, Terraform (IaC), Ansible automation  
 - **Focus:** infrastructure automation and scalable deployments
-- [View Certificate](./containerization-and-infrastructure.pdf)
+- [View Certificate](./certificates/devops/containerization-and-infrastructure.pdf)
 
 ---
 
@@ -68,7 +68,7 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 - **Date:** September 2025  
 - **Key topics:** cloud infrastructure services, databases, analytics, Azure developer tools, DevOps integration  
 - **Focus:** cloud infrastructure and application hosting
-- [View Certificate](./azure-essentials.pdf)
+- [View Certificate](./certificates/devops/azure-essentials.pdf)
 
 ---
 
@@ -78,7 +78,7 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 - **Date:** November 2025  
 - **Key topics:** cluster setup, workloads, security, storage, observability, troubleshooting, Helm, CI/CD integration  
 - **Focus:** container orchestration and production-scale systems
-- [View Certificate](./kubernetes.pdf)
+- [View Certificate](./certificates/devops/kubernetes.pdf)
 
 ---
 
@@ -91,7 +91,7 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 - **Date:** January 2026  
 - **Key topics:** build pipelines, testing, release automation, security integration, GitOps, monitoring and observability  
 - **Focus:** automated software delivery and system reliability
-- [View Certificate](./ci_cd-and-monitoring.pdf)
+- [View Certificate](./certificates/devops/ci_cd-and-monitoring.pdf)
 
 ---
 
