@@ -8,7 +8,7 @@ Each certification is supported by key topics and, where applicable, linked proj
 ### Programming Basics
 
 - **Issuer:** Software University  
-- **Date:** (add your date here)  
+- **Date:** July 2025 
 - [View Certificate](./programming-basics-JavaScript.pdf)
 
 ### PostgreSQL
