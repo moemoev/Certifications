@@ -8,4 +8,4 @@ Each certification is supported by key topics and, where applicable, linked proj
 - Course: Postgre SQL
   Issuer: Software University
   Year: September 2025
-  [View Certificate](PostgreSQL - September 2025 - Certificate.pdf)
+  [View Certificate](./PostgreSQL - September 2025 - Certificate.pdf)
