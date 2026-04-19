@@ -14,7 +14,7 @@ Each certification is supported by key topics and, where applicable, linked proj
 
 ---
 
-### Programming Fundamentals (JavaScript)
+### 🟨 Programming Fundamentals (JavaScript)
 
 - **Issuer:** Software University  
 - **Date:** September 2025  
@@ -23,7 +23,7 @@ Each certification is supported by key topics and, where applicable, linked proj
 
 ---
 
-### PostgreSQL
+### 🐘 PostgreSQL
 
 - **Issuer:** Software University  
 - **Date:** September 2025  
@@ -32,7 +32,7 @@ Each certification is supported by key topics and, where applicable, linked proj
 - [View Certificate](./postgresql-2025.pdf)
 
 
-## ☁️ DevOps Upskill Program
+## ♾️ DevOps Upskill Program
 
 A structured program covering Linux systems, cloud infrastructure, containerization, Kubernetes, and CI/CD pipelines.
 
