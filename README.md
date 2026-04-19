@@ -44,6 +44,7 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 - **Date:** March 2025    
 - **Key topics:** Linux fundamentals, users and permissions, file systems, networking, process management, system monitoring, Bash scripting and automation  
 - **Focus:** Linux system operation and automation
+- [View Certificate](./linux-system-administration.pdf)
 
 ---
 
@@ -53,6 +54,7 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 - **Date:** June 2025  
 - **Key topics:** Docker, containerization, container orchestration, Terraform (IaC), Ansible automation  
 - **Focus:** infrastructure automation and scalable deployments
+- [View Certificate](./containerization-and_infrastructure.pdf)
 
 ---
 
@@ -62,6 +64,7 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 - **Date:** September 2025  
 - **Key topics:** cloud infrastructure services, databases, analytics, Azure developer tools, DevOps integration  
 - **Focus:** cloud infrastructure and application hosting
+- [View Certificate](./azure-essentials.pdf)
 
 ---
 
@@ -71,6 +74,7 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 - **Date:** November 2025  
 - **Key topics:** cluster setup, workloads, security, storage, observability, troubleshooting, Helm, CI/CD integration  
 - **Focus:** container orchestration and production-scale systems
+- [View Certificate](./kubernetes.pdf)
 
 ---
 
@@ -80,6 +84,7 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 - **Date:** January 2026  
 - **Key topics:** build pipelines, testing, release automation, security integration, GitOps, monitoring and observability  
 - **Focus:** automated software delivery and system reliability
+- [View Certificate](./ci_cd-and-monitoring.pdf)
 
 ---
 
@@ -93,5 +98,3 @@ My learning path reflects a progression from core programming to full-stack deve
 - **DevOps Track →** Linux, cloud (Azure), containers, Kubernetes, CI/CD pipelines  
 
 ---
-
-## 🎯 Summary
