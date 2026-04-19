@@ -5,6 +5,12 @@ Each certification is supported by key topics and, where applicable, linked proj
 
 ## 💻 Software Engineering
 
+### Programming Basics
+
+- **Issuer:** Software University  
+- **Date:** (add your date here)  
+- [View Certificate](./programming-basics-JavaScript.pdf)
+
 ### PostgreSQL
 
 - **Issuer:** Software University  
