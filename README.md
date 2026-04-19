@@ -54,7 +54,7 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 - **Date:** June 2025  
 - **Key topics:** Docker, containerization, container orchestration, Terraform (IaC), Ansible automation  
 - **Focus:** infrastructure automation and scalable deployments
-- [View Certificate](./containerization-and_infrastructure.pdf)
+- [View Certificate](./containerization-and-infrastructure.pdf)
 
 ---
 
