@@ -30,3 +30,68 @@ Each certification is supported by key topics and, where applicable, linked proj
 - **Key topics:** database fundamentals (data types, table design), CRUD operations, SQL querying (SELECT, functions, aggregation), relational databases (joins, subqueries, relationships), transactions and database programmability  
 - **Focus:** designing and querying relational databases using PostgreSQL  
 - [View Certificate](./postgresql-2025.pdf)
+
+
+## ☁️ DevOps Upskill Program
+
+A structured program covering Linux systems, cloud infrastructure, containerization, Kubernetes, and CI/CD pipelines.
+
+---
+
+### 🐧 Linux System Administration
+
+- **Issuer:** Software University
+- **Date:** March 2025    
+- **Key topics:** Linux fundamentals, users and permissions, file systems, networking, process management, system monitoring, Bash scripting and automation  
+- **Focus:** Linux system operation and automation
+
+---
+
+### 📦 Containerization & Infrastructure
+
+- **Issuer:** Software University  
+- **Date:** June 2025  
+- **Key topics:** Docker, containerization, container orchestration, Terraform (IaC), Ansible automation  
+- **Focus:** infrastructure automation and scalable deployments
+
+---
+
+### ☁️ Azure Essentials
+
+- **Issuer:** Software University
+- **Date:** September 2025  
+- **Key topics:** cloud infrastructure services, databases, analytics, Azure developer tools, DevOps integration  
+- **Focus:** cloud infrastructure and application hosting
+
+---
+
+### ☸️ Kubernetes
+
+- **Issuer:** Software University
+- **Date:** November 2025  
+- **Key topics:** cluster setup, workloads, security, storage, observability, troubleshooting, Helm, CI/CD integration  
+- **Focus:** container orchestration and production-scale systems
+
+---
+
+### 🔁 CI/CD and Monitoring
+
+- **Issuer:** Software University
+- **Date:** January 2026  
+- **Key topics:** build pipelines, testing, release automation, security integration, GitOps, monitoring and observability  
+- **Focus:** automated software delivery and system reliability
+
+---
+
+## 📈 Skills Evolution
+
+My learning path reflects a progression from core programming to full-stack development foundations and modern cloud-native DevOps practices.
+
+- **Programming Basics →** logic, loops, conditions, problem solving  
+- **Programming Fundamentals →** functions, OOP, arrays, web basics, Git, HTTP  
+- **Databases (PostgreSQL) →** SQL, relational modeling, joins, transactions  
+- **DevOps Track →** Linux, cloud (Azure), containers, Kubernetes, CI/CD pipelines  
+
+---
+
+## 🎯 Summary
