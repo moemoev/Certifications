@@ -5,7 +5,8 @@ Each certification is supported by key topics and, where applicable, linked proj
 
 ## 💻 Software Engineering
 
-- Course: Postgre SQL
-  Issuer: Software University
-  Year: September 2025
-  [View Certificate](./PostgreSQL - September 2025 - Certificate.pdf)
+### PostgreSQL
+
+- **Issuer:** Software University  
+- **Date:** September 2025  
+- [View Certificate](./PostgreSQL%20-%20September%202025%20-%20Certificate.pdf)
