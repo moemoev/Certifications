@@ -39,6 +39,7 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 ---
 
 ### 🐧 Linux System Administration
+![Debian](https://img.shields.io/badge/Debian-supported-A81D33?logo=debian&logoColor=white)
 
 - **Issuer:** Software University
 - **Date:** March 2025    
@@ -49,6 +50,9 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 ---
 
 ### 📦 Containerization & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-containerization-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-automation-EE0000?logo=ansible&logoColor=white)
 
 - **Issuer:** Software University  
 - **Date:** June 2025  
@@ -79,6 +83,9 @@ A structured program covering Linux systems, cloud infrastructure, containerizat
 ---
 
 ### 🔁 CI/CD and Monitoring
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-ef7b4d?logo=argo&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-Git%20service-609926?logo=gitea&logoColor=white)
 
 - **Issuer:** Software University
 - **Date:** January 2026  
