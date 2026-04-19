@@ -9,4 +9,4 @@ Each certification is supported by key topics and, where applicable, linked proj
 
 - **Issuer:** Software University  
 - **Date:** September 2025  
-- [View Certificate](./postgresql-certificate-2025.pdf)
+- [View Certificate](./postgresql-2025.pdf)
